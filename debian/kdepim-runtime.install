@@ -38,6 +38,7 @@ usr/lib/kde4/akonadi_serializer_addressee.so
 usr/lib/kde4/akonadi_serializer_bookmark.so
 usr/lib/kde4/akonadi_serializer_contactgroup.so
 usr/lib/kde4/akonadi_serializer_kcal.so
+usr/lib/kde4/akonadi_serializer_kcalcore.so
 usr/lib/kde4/akonadi_serializer_mail.so
 usr/lib/kde4/akonadi_serializer_microblog.so
 usr/lib/kde4/kabc_akonadi.so
@@ -49,15 +50,13 @@ usr/lib/kde4/kio_akonadi.so
 usr/lib/libakonadi-filestore.so.4
 usr/lib/libakonadi-filestore.so.4.5.0
 usr/lib/libakonadi-xml.so.4
-usr/lib/libakonadi-xml.so.4.5.0
+usr/lib/libakonadi-xml.so.4.6.0
 usr/lib/libkdepim-copy.so.4
-usr/lib/libkdepim-copy.so.4.5.0
-usr/lib/libkmindexreader.so.4
-usr/lib/libkmindexreader.so.4.5.0
+usr/lib/libkdepim-copy.so.4.6.0
 usr/lib/libmaildir.so.4
-usr/lib/libmaildir.so.4.5.0
+usr/lib/libmaildir.so.4.6.0
 usr/lib/libmbox.so.4
-usr/lib/libmbox.so.4.5.0
+usr/lib/libmbox.so.4.6.0
 usr/share/akonadi/agents/akonotesresource.desktop
 usr/share/akonadi/agents/birthdaysresource.desktop
 usr/share/akonadi/agents/calendarsearchagent.desktop
@@ -118,6 +117,7 @@ usr/share/kde4/apps/akonadi/plugins/serializer/akonadi_serializer_addressee.desk
 usr/share/kde4/apps/akonadi/plugins/serializer/akonadi_serializer_bookmark.desktop
 usr/share/kde4/apps/akonadi/plugins/serializer/akonadi_serializer_contactgroup.desktop
 usr/share/kde4/apps/akonadi/plugins/serializer/akonadi_serializer_kcal.desktop
+usr/share/kde4/apps/akonadi/plugins/serializer/akonadi_serializer_kcalcore.desktop
 usr/share/kde4/apps/akonadi/plugins/serializer/akonadi_serializer_mail.desktop
 usr/share/kde4/apps/akonadi/plugins/serializer/akonadi_serializer_microblog.desktop
 usr/share/kde4/apps/akonadi_knut_resource/knut-template.xml

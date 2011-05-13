@@ -12,6 +12,34 @@ kdepim-runtime (4:4.4.93-0r1) UNRELEASED; urgency=low
 
  -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sat, 04 Sep 2010 23:13:11 +0300
 
+kdepim-runtime (4:4.4.11.1-1) experimental; urgency=low
+
+  * New upstream release.
+
+  [ José Manuel Santamaría Lema ]
+  * Update installed files.
+  * Bump build dependencies:
+    - kdelibs5-dev to 4:4.6
+    - kdepimlibs5-dev  to 4:4.6
+    - libakonadi-dev to 1.5.0
+    - kde-sc-dev-latest to 4:4.6.2
+  * Bump S-V to 3.9.1: add Breaks next to Replaces where needed.
+  * Refresh patch.
+  * Add debian/not-installed.
+  * Add myself to Uploaders.
+
+  [ Modestas Vainius ]
+  * Add abort-on-upstream-changes to debian/source/local-options.
+  * Switch debian/rules engine to dhmk qt-kde-team/2/*.
+
+ -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Wed, 27 Apr 2011 12:23:43 +0300
+
+kdepim-runtime (4:4.4.7-1) unstable; urgency=low
+
+  * New upstream release.
+
+ -- Modestas Vainius <modax@debian.org>  Fri, 22 Oct 2010 21:41:43 +0300
+
 kdepim-runtime (4:4.4.6-1) unstable; urgency=low
 
   * New upstream bugfix release.
